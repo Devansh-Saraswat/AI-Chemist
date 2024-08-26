@@ -1,6 +1,8 @@
 # AI Chemist App
 
-AI Chemist App is a Streamlit-based application that utilizes the Google Gemini 1.5 Flash API to analyze images of pharmaceutical tablets. The app provides detailed information about each tablet, including its uses, functionalities, and distinguishing characteristics.
+AI Chemist is a cutting-edge web application designed to revolutionize the field of chemistry by offering personalized chemical solutions and experimental recommendations. Leveraging the advanced capabilities of the Gemini 1.5 Pro model, this app utilizes artificial intelligence to evaluate user input, laboratory conditions, and specific research objectives.
+
+With AI Chemist, researchers can receive tailored experiment designs, optimized chemical synthesis routes, and insightful data analysis, all aimed at enhancing research efficiency and fostering innovation. Whether you're conducting complex chemical experiments or exploring new synthesis pathways, AI Chemist provides intelligent, data-driven guidance and support to take your research to the next level.
 
 ## Features
 
@@ -27,4 +29,4 @@ If you want to contribute to this project, please fork the repository and create
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the GNU-GPL-3.0 License. See the `LICENSE` file for more details.
