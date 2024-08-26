@@ -1,0 +1,6 @@
+streamlit
+google.generativeai
+python-dotenv
+streamlit-extras
+PyPDF2
+Pillow
